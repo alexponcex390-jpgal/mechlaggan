@@ -1,0 +1,11 @@
+CONTROLES DEL MECHA
+WASD: movimiento
+ESPACIO: salto
+SHIFT: correr
+Clic izquierdo: ataque ligero
+1 / 2 / 3: habilidades
+R: ataque definitivo
+G: transformación
+X: desmontarse
+
+El jugador debe estar montado para que las teclas de pilotaje funcionen.
